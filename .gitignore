@@ -1,0 +1,15 @@
+node_modules/
+elm-stuff/
+dist/
+.elm-pages/
+functions/render/elm-pages-cli.js
+
+# https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+# Zero-Installs:
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
